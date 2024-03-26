@@ -1,6 +1,6 @@
 -> 👋 Hi, I’m Karan Aggarwal
 -> 👀 I either find a way or make one 💫💫
--> 🌱 I’m currently learning Java
+-> 🌱 I’m currently learning reactJs
 -> 📫 How to reach me .. Insta -> karan_aggarwal_00
 
 <!---
